@@ -1,0 +1,33 @@
+name: appproject
+description: A Flutter app with login/signup using SharedPreferences
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.17.0
+  cloud_firestore: ^4.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/img.png
+    - assets/images/img_1.png
+    - assets/images/img_2.png
+    - assets/images/img_3.png
+    - assets/images/img_4.png
+    - assets/images/img_5.png
+    - assets/images/img_6.png
+    - assets/images/img_7.png
+    - assets/images/img_8.png
+    - assets/images/img_9.png
+    - assets/images/img_10.png
+    - assets/images/img_11.png
