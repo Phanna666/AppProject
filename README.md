@@ -24,4 +24,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/user-attachments/assets/21fffc39-fe81-4351-aa41-ea8aaba8f9e1)
 
+#Booking
 
+![image](https://github.com/user-attachments/assets/e2cf2612-8274-480e-bebf-8ab04442ab93)
+
+#Chat
+
+![image](https://github.com/user-attachments/assets/1b006597-cb40-4655-8fed-36e1f2cd9f6e)
+
+
+#Order
+
+![image](https://github.com/user-attachments/assets/f1a44f5d-d0a5-4fd4-972e-9c699d4ab89f)
